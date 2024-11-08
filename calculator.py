@@ -82,3 +82,5 @@ btn_add.grid(column=3, row=3)
 btn_equ.grid(column=3, row=4)
 
 root.mainloop()
+
+print("fasz")
